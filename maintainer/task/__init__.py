@@ -1,0 +1,3 @@
+from maintainer.task.load_apps_task import load_app_infos
+from maintainer.task.index_maintain_task import retrain_index_if_unhealthy
+from maintainer.task.load_vectors_task import load_missing_vectors
